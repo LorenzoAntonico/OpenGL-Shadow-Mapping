@@ -30,7 +30,7 @@
 ##  Istruzioni di compilazione
 
 
-1. Apri il terminale nella **cartella root** del progetto
+1. Apri il terminale MSYS MinGW32 nella **cartella root** del progetto
 2. Esegui:
 
 ```bash
